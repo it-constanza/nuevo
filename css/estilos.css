@@ -12,3 +12,8 @@ header {
 li {
     color: blueviolet;
 }
+
+footer {
+    color: aquamarine;
+    background-color: black;
+}
